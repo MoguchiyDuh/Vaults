@@ -7,7 +7,8 @@
 ### Octal (Base 8)
 - Digits: 0, 1, 2, 3, 4, 5, 6, 7
 - Position values(weights): ..., 512, 64, 8, 1
-- Example: $237_8$
+- Real-word example:
+	- Unix file permissions (chmod 0755) — each octal digit represents 3 permission bits.
 
 ### Decimal (Base 10)
 - Digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
@@ -17,7 +18,12 @@
 ### Hexadecimal (Base 16)
 - Digits: 0-9, A-F (A=10, B=11, C=12, D=13, E=14, F=15)
 - Position values(weights): ..., 4096, 256, 16, 1
-- Example: $2AF_16$
+- Real-world examples:
+	- Memory addresses: 0x7FFFAABB
+	- Colors in CSS/graphics: #FF8800 → RGB bytes
+	- MAC addresses and IPv6: hardware/network identifiers
+	- File headers / magic numbers: first bytes of files often shown in hex
+	- Hashes / cryptography: MD5/SHA outputs
 
 ---
 
