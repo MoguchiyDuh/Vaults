@@ -13,7 +13,7 @@ Key properties of analog signals:
 - *Phase*: The position of the wave relative to a reference.
 
 2. **Digital**  -  signal that varies in discrete steps (not continuous, has less errors then analog because represented by two numbers so it is hard to misrepresent the response) 
-	- We levels of voltage: 
+	- Levels of voltage: 
 		- *low voltage* (0V) -> $0_{(2)}$
 		- *high voltage* (3.3V, 5V) -> $1_{(2)}$
 	- Key properties of digital signals:
