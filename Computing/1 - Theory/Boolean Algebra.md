@@ -153,5 +153,8 @@
 - $\lnot(A \lor B \lor C \lor ...) = \lnot A \land \lnot B \land \lnot C \land ...$
 - $\lnot(A \land B \land C \land ...) = \lnot A \lor \lnot B \lor \lnot C \lor ...$
 
+### ALL GATES USING NAND
+#TODO
+
 
 Tags: #boolean_algebra

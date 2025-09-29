@@ -134,4 +134,6 @@ Combined: 13.625₁₀ = 1101.101₂
 ### Float Decimal $\gets$ Binary
 use this formula: [[Number Systems#Positional Value (weight) Formula]]
 
+
+
 Tags: #number_systems
