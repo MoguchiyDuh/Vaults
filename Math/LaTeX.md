@@ -45,6 +45,85 @@ $\textsf{sans serif Sample Text 0123}$
 - space - \quad
 ---
 ### Subscript and Superscript: $a_1^2 + b_1^2 = c_1^2$
+
+---
+### \Begin block
+$$
+f(x) = \begin{cases}
+x^2 & \text{if } x \geq 0 \\
+-x & \text{if } x < 0
+\end{cases}
+$$
+
+$$
+\begin{matrix}
+a & b \\
+c & d 
+\end{matrix}
+$$
+
+
+$$
+\begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix}
+\quad
+\begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
+\quad
+\begin{vmatrix} 1 & 2 \\ 3 & 4 \end{vmatrix}
+$$
+
+$$
+\begin{array}{c|c|c}
+x & f(x) & f'(x) \\
+\hline
+0 & 1 & 0 \\
+1 & 2 & 2 \\
+2 & 4 & 4 \\
+\end{array}
+$$
+
+$$
+\begin{gather}
+a^2 + b^2 = c^2 \\
+e^{i\pi} + 1 = 0 \\
+F = ma
+\end{gather}
+$$
+
+$$
+\begin{multline}
+( a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z )^2 \\
+= \text{very long expansion...}
+\end{multline}
+$$
+
+<p style="text-align: center">aligned to "&"</p>
+
+$$
+\begin{align}
+f(x) &= x^2 + 2x + 1 \\
+g(x) &= 3x^3 - 4x^2 + 5x - 2 \\
+h(x) &= \sin(x) + \cos(x)
+\end{align}
+$$
+
+$$
+\begin{equation}
+E = mc^2
+\end{equation}
+$$
+
+$$
+\left(
+\begin{array}{cc|c}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+\hline
+7 & 8 & 9
+\end{array}
+\right)
+$$
+
+
 ---
 ### Examples:
 1. $\int_0^\infty e^{-x^2} dx$

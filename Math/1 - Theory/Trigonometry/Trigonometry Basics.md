@@ -45,3 +45,7 @@ tags:
 | **$\cos$**   | $\sin(x)$                 | $-\sin(x)$                | $-\cos(x)$            | $-\cos(x)$            | $-\sin(x)$             | $\sin(x)$              | $\cos(x)$             | $\cos(x)$              |
 | **$\tan$**   | $\cot(x)$                 | $-\cot(x)$                | $-\tan(x)$            | $\tan(x)$             | $\cot(x)$              | $-\cot(x)$             | $-\tan(x)$            | $\tan(x)$              |
 | **$\cot$**   | $\tan(x)$                 | $-\tan(x)$                | $-\cot(x)$            | $\cot(x)$             | $\tan(x)$              | $-\tan(x)$             | $-\cot(x)$            | $\cot(x)$              |
+
+---
+## Euler's formula
+### $$\boxed{e^{ix} = \cos{x}+i \cdot \sin{x}}$$

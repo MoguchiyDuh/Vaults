@@ -11,7 +11,7 @@ Where:
 - $y$ is the logarithm or exponent
 
 ## Logarithm Types
-- Base logarithm - $\log_{10}$ or $\log$
+- Common logarithm - $\log_{10}$ or $\log$
 - Natural logarithm (e $\approx$ 2.71828) - $\log_e$ or $\ln$
 - Binary - $\log_2$
 
@@ -26,13 +26,3 @@ Where:
 ### $$\log_a a = 1, \text{ because } a^1=a$$
 ### $$\log_a(a^n) = n$$
 ### $$a^{\log_a x} = x$$
-
-
-$$\begin{align*}
-&\text{Product:} \quad &\log_a(xy) &= \log_a x + \log_a y \\
-&\text{Quotient:} \quad &\log_a\left(\frac{x}{y}\right) &= \log_a x - \log_a y \\
-&\text{Power:} \quad &\log_a(x^n) &= n \log_a x \\
-&\text{Root:} \quad &\log_a(\sqrt[n]{x}) &= \frac{\log_a x}{n} \\
-&\text{Change of Base:} \quad &\log_a b &= \frac{\log_c b}{\log_c a} \\
-&\text{Special Values:} \quad &\log_a 1 &= 0, \quad \log_a a = 1
-\end{align*}$$
