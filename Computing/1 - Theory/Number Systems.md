@@ -13,7 +13,7 @@
 ### Decimal (Base 10)
 - Digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 - Position values(weights): ..., 1000, 100, 10, 1
-- Example: $159_10$
+- Example: $159_{10}$
 
 ### Hexadecimal (Base 16)
 - Digits: 0-9, A-F (A=10, B=11, C=12, D=13, E=14, F=15)

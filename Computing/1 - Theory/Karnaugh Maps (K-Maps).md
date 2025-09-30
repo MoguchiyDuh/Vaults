@@ -12,15 +12,22 @@ Simplifies Boolean algebra expressions visually to create optimal logic circuits
 
 ### Reading Groups
 - Identify variables that **don't change** within the group
-- Eliminate variables that change within the group
+- Eliminate variables that **change** within the group
+- Within **one** group: variables are **multiplied** (AND) → ABCD
+- Between **different** groups: terms are **added** (OR) → AB + CD
 
 ---
 ## 4-Variable K-Map
 
 <img src="Pictures/kmap.png" width=500 height="auto" style="display: block; margin: auto">
 
-**Result**: 
+**Solution:**
+We have 3 groups:
+- orange group: $A \land D$
+- green group: $C \land D$
+- Purple group: $\lnot B \land \lnot D$
 
+**Result:** $(A \land D) \lor (C \land D) \lor (\lnot B \land \lnot D)$
 
 ---
 ## Limitations

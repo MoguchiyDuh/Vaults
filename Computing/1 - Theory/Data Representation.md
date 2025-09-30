@@ -32,7 +32,7 @@ $$\boxed{x = -a_{n-1} \cdot 2^{n-1} + \sum_{i=0}^{n-2} a_i \cdot 2^i}$$
 - Easy overflow detection
 
 ### Example:
-**Convert -5₁₀ to 8-bit two's complement:**
+**Convert $-5_{10}$ to 8-bit two's complement:**
 - Start with +5: `00000101₂`
 - Invert bits: `11111010₂` (one's complement)
 - Add 1: `11111011₂` (two's complement)
@@ -50,9 +50,6 @@ $$\boxed{x = -a_{n-1} \cdot 2^{n-1} + \sum_{i=0}^{n-2} a_i \cdot 2^i}$$
 | **C/CY** | Carry | Unsigned overflow | Result > 255 (8-bit) or > 65535 (16-bit) | `255 + 1 = 0` (C=1) |
 | **P** | Parity | Error detection | Even number of 1s in result | `0110 0101` (4 ones, P=1) |
 | **V/O** | Overflow | Signed overflow | Result outside signed range | `127 + 1 = -128` (V=1) |
-| **Z** | Zero | Zero result | All bits of result are zero | `128 - 128 = 0` (Z=1) |
-| **S/N** | Sign | Negative result | MSB of result is 1 | `5 - 10 = -5` (S=1) |
-| **AC** | Auxiliary Carry | BCD arithmetic | Carry from bit 3 to bit 4 | `0x0F + 0x01` (AC=1) |
 
 ### Flag Details:
 - **Carry (C)**: Used for unsigned arithmetic, indicates borrow in subtraction
@@ -72,6 +69,7 @@ Where:
 - **B**: Base (usually 2 for binary)
 - **E**: Exponent = Stored Value - Bias
 
+---
 ## IEEE 754 Standard
 
 ### Single Precision (32-bit)
@@ -79,6 +77,42 @@ Where:
 
 <img src="Pictures/single_precision_ieee.jpg" width=500 height="auto" style="display: block; margin: auto">
 
-### Double Precision (64-bit)
+**Components:**
+- **Sign**: 1 bit
+- **Exponent**: 8 bits (bias = 127)
+- **Mantissa**: 23 bits (implicit leading 1)
+- **Range**: $\pm 1.18 \cdot 10^{-38}$ to $\pm 3.4 \cdot 10^{38}$
+- **Precision**: ~7 decimal digits
+
+### Double Precision (64-bit):
 
 <img src="Pictures/double_precision_ieee.jpg" width=500 height="auto" style="display: block; margin: auto">
+
+**Components:**
+- **Sign**: 1 bit
+- **Exponent**: 11 bits (bias = 1023)
+- **Mantissa**: 52 bits (implicit leading 1)
+- **Range**: $2.23 \cdot 10^{-308}$ to $\pm 1.80 \cdot 10^{308}$
+- **Precision**: ~15 decimal digits
+
+### Special Values:
+- **Zero**: Exponent = 0, Mantissa = 0
+- **Infinity**: Exponent = all 1s, Mantissa = 0
+- **NaN**: Exponent = all 1s, Mantissa ≠ 0
+- **Denormalized**: Exponent = 0, Mantissa ≠ 0
+
+### Normalization Process:
+1. Convert number to binary scientific notation: `1.xxxx × 2^exp`
+2. Extract sign bit from original number
+3. Calculate exponent: `exponent = exp + bias`
+4. Store fractional part of mantissa (drop the leading 1)
+
+### Example: Convert 9.625₁₀ to IEEE 754 Single Precision
+1. Convert to binary: `9.625₁₀ = 1001.101₂`
+2. Normalize: `1.001101 × 2³`
+3. Sign: 0 (positive)
+4. Exponent: 3 + 127 = 130 = `10000010₂`
+5. Mantissa: `00110100000000000000000` (23 bits)
+6. Result: `0 10000010 00110100000000000000000`
+
+---
