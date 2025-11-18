@@ -1,3 +1,12 @@
+---
+tags:
+  - computing/digital-logic
+  - k-maps
+related:
+  - "[[Boolean Algebra]]"
+  - "[[Computing MOC]]"
+---
+
 ## Purpose
 Simplifies Boolean algebra expressions visually to create optimal logic circuits.
 
@@ -31,6 +40,10 @@ We have 3 groups:
 
 ---
 ## Limitations
-Beyond 6 variables becomes **impractical**. Use Quine-McCluskey algorithm instead.Retry
+Beyond 6 variables becomes **impractical**. Use Quine-McCluskey algorithm instead.
 
-Tags: #k-maps
+---
+
+## See Also
+- [[Boolean Algebra]] - Boolean operations and laws
+- [[Computing MOC]] - Computing topics overview

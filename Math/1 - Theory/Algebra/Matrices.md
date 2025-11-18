@@ -1,7 +1,12 @@
 ---
 tags:
-  - algebra
+  - math/algebra
   - matrices
+  - linear-algebra
+related:
+  - '[[Vectors]]'
+  - '[[Algebra MOC]]'
+  - '[[Math MOC]]'
 ---
 
 ## Introduction
@@ -242,3 +247,11 @@ $$
 
 If $D = 0$ and at least one $D_i \neq 0$, the system is inconsistent.  
 If $D = 0$ and all $D_i = 0$, the system may have infinitely many solutions or no solution.
+
+
+---
+
+## See Also
+- [[Vectors]] - Vector operations (related to matrix operations)
+- [[Algebra MOC]] - Algebra topics overview
+- [[Math MOC]] - Mathematics overview

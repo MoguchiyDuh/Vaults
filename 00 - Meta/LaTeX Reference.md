@@ -170,3 +170,7 @@ c & d
 \end{gather*}$
 <br>
 9. $\lim_{h \to 0 } \frac{f(x+h)-f(x)}{h}$
+
+---
+
+[[00 - Meta/Index|← Back to Index]]

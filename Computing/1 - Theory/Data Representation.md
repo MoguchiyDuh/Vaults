@@ -1,3 +1,14 @@
+---
+tags:
+  - computing/data-representation
+  - ieee-754
+  - twos-complement
+related:
+  - '[[Number Systems]]'
+  - '[[Boolean Algebra]]'
+  - '[[Computing MOC]]'
+---
+
 # Computer Data Representation
 
 ## Two's Complement Algorithm #twos_complement
@@ -151,3 +162,10 @@ Value = $7.0_{10}$
 
 
 **Result: 7.0**
+
+---
+
+## See Also
+- [[Number Systems]] - Binary, octal, decimal, hexadecimal conversions
+- [[Boolean Algebra]] - Binary logic operations
+- [[Computing MOC]] - Computing topics overview

@@ -1,3 +1,13 @@
+---
+tags:
+  - computing/digital-logic
+  - boolean-algebra
+related:
+  - "[[Karnaugh Maps (K-Maps)]]"
+  - "[[Data Representation]]"
+  - "[[Computing MOC]]"
+---
+
 ## Definition
 **Boolean algebra** is a branch of algebra that deals with binary variables and logical operations. It forms the foundation of digital circuit design and computer logic.
 
@@ -156,5 +166,9 @@
 ### ALL GATES USING NAND
 #TODO
 
+---
 
-Tags: #boolean_algebra
+## See Also
+- [[Karnaugh Maps (K-Maps)]] - Simplifying Boolean expressions
+- [[Data Representation]] - Binary number systems
+- [[Computing MOC]] - Computing topics overview

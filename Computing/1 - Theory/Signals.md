@@ -1,3 +1,15 @@
+---
+tags:
+  - computing/signals
+  - analog
+  - digital
+  - adc
+related:
+  - '[[Data Representation]]'
+  - '[[Number Systems]]'
+  - '[[Computing MOC]]'
+---
+
 1. **Analog** (continuous) -  signal that varies continuously over time
 	- It can take on any value within a range, not just discrete levels
 	- Example:
@@ -80,3 +92,11 @@ Key properties of analog signals:
 3. Encoding
 	- Each quantized value is stored as a binary number.
 	- This sequence of binary values is the digital representation of the original analog signal.
+
+
+---
+
+## See Also
+- [[Data Representation]] - Binary representation of data
+- [[Number Systems]] - Number conversions
+- [[Computing MOC]] - Computing topics overview

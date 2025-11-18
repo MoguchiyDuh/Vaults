@@ -1,5 +1,11 @@
 ---
-tags: ["trigonometry", "basic_identities"]
+tags:
+  - math/trigonometry
+  - identities
+  - formula
+related:
+  - '[[Trigonometry Basics]]'
+  - '[[Trigonometry MOC]]'
 ---
 
 ## Notation
@@ -93,3 +99,10 @@ These identities convert sums of trigonometric functions into products:
 ## Domain
  WiP
  
+
+
+---
+
+## See Also
+- [[Trigonometry Basics]] - Basic trigonometric functions
+- [[Trigonometry MOC]] - Trigonometry topics overview

@@ -1,7 +1,13 @@
 ---
 tags:
-  - algebra
+  - math/algebra
   - binomials
+  - formula
+related:
+  - '[[Algebraic Identities]]'
+  - '[[Polynomials]]'
+  - '[[Permutations & Combinations]]'
+  - '[[Algebra MOC]]'
 ---
 ## Definition
 A binomial is a [[Polynomials|polynomial]] with exactly two terms.
@@ -47,3 +53,12 @@ Where:
 **Row n:** Contains coefficients for $(a + b)^n$
 
 ## Sum of coefficients $2^n$
+
+
+---
+
+## See Also
+- [[Algebraic Identities]] - Basic algebraic formulas
+- [[Polynomials]] - Polynomial operations
+- [[Permutations & Combinations]] - Related to binomial coefficients
+- [[Algebra MOC]] - Algebra topics overview

@@ -1,8 +1,11 @@
 ---
 tags:
-  - algebra
+  - math/algebra
   - exponents
-  - basics
+  - powers
+related:
+  - '[[Logarithms]]'
+  - '[[Algebra MOC]]'
 ---
 
 ## Definition
@@ -25,3 +28,10 @@ An **exponent** represents repeated multiplication of the same base number.
 ### $$a^0 = 1, a^1 = a$$
 ### $$a^{-1} = \frac 1 a$$
 ### $$a^{\frac{m}{n}} = \sqrt[n]{a^m}$$
+
+
+---
+
+## See Also
+- [[Logarithms]] - Inverse of exponentiation
+- [[Algebra MOC]] - Algebra topics overview

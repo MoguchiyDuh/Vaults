@@ -1,7 +1,13 @@
 ---
 tags:
-  - algebra
-  - polinomials
+  - math/algebra
+  - polynomials
+related:
+  - '[[Algebraic Identities]]'
+  - '[[Quadratic Function]]'
+  - '[[Quadratic Inequalities]]'
+  - '[[Binomials]]'
+  - '[[Algebra MOC]]'
 ---
 ## Definition
 
@@ -54,3 +60,13 @@ related topics:
 [[Algebraic Identities]]
 [[Quadratic Function]]
 [[Quadratic Inequalities]]
+
+
+---
+
+## See Also
+- [[Algebraic Identities]] - Common algebraic formulas
+- [[Quadratic Function]] - Second-degree polynomials
+- [[Quadratic Inequalities]] - Solving polynomial inequalities
+- [[Binomials]] - Two-term polynomials
+- [[Algebra MOC]] - Algebra topics overview

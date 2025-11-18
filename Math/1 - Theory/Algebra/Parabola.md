@@ -1,9 +1,12 @@
 ---
 tags:
-  - algebra
+  - math/algebra
   - parabola
-  - graphics
-  - basics
+  - quadratic
+  - graphing
+related:
+  - '[[Quadratic Function]]'
+  - '[[Algebra MOC]]'
 ---
 ### Definition
 A **parabola** is a U-shaped curve that is the graph of a [[Quadratic Function]].
@@ -39,3 +42,10 @@ A **parabola** is a U-shaped curve that is the graph of a [[Quadratic Function]]
   - If $a < 0$, the vertex is the **maximum point**.
 
 ---
+
+
+---
+
+## See Also
+- [[Quadratic Function]] - Quadratic equations and roots
+- [[Algebra MOC]] - Algebra topics overview

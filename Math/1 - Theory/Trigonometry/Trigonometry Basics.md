@@ -1,7 +1,13 @@
 ---
-tags: 
-  - trigonometry
+tags:
+  - math/trigonometry
   - basics
+related:
+  - '[[Trigonometric Identities]]'
+  - '[[Sine Rule]]'
+  - '[[Cosine Rule]]'
+  - '[[Triangles]]'
+  - '[[Trigonometry MOC]]'
 ---
 
 ## Notation
@@ -49,3 +55,13 @@ tags:
 ---
 ## Euler's formula
 ### $$\boxed{e^{ix} = \cos{x}+i \cdot \sin{x}}$$
+
+
+---
+
+## See Also
+- [[Trigonometric Identities]] - Trigonometric formulas and identities
+- [[Sine Rule]] - Triangle solving with sine
+- [[Cosine Rule]] - Triangle solving with cosine
+- [[Triangles]] - Triangle properties
+- [[Trigonometry MOC]] - Trigonometry topics overview

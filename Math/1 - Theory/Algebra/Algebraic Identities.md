@@ -1,9 +1,12 @@
 ---
 tags:
-  - algebra
-  - algebraic_identities
-  - basics
+  - math/algebra
+  - identities
   - formula
+related:
+  - '[[Binomials]]'
+  - '[[Polynomials]]'
+  - '[[Algebra MOC]]'
 ---
 ## Square Identities #square_identities 
 ### Square of Sum
@@ -63,3 +66,11 @@ additional stuff: [[Binomials]]
 ### $\boxed{(a + b + c)² = a² + b² + c² + 2ab + 2ac + 2bc}$
 
 **Example**: (x + y + 2)² = x² + y² + 4 + 2xy + 4x + 4y
+
+
+---
+
+## See Also
+- [[Binomials]] - Binomial theorem and expansion
+- [[Polynomials]] - Polynomial operations
+- [[Algebra MOC]] - Algebra topics overview

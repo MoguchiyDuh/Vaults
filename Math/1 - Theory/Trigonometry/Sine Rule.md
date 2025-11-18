@@ -1,7 +1,13 @@
 ---
 tags:
-  - trigonometry
-  - sine_rule
+  - math/trigonometry
+  - sine-rule
+  - formula
+related:
+  - '[[Cosine Rule]]'
+  - '[[Triangles]]'
+  - '[[Trigonometry Basics]]'
+  - '[[Trigonometry MOC]]'
 ---
 
 ## Sine Rule  #sine_rule #formula
@@ -16,3 +22,10 @@ Where:
   - Two sides and a non-included angle (to find another angle).
 
 ---
+
+
+## See Also
+- [[Cosine Rule]] - Alternative triangle solving method
+- [[Triangles]] - Triangle properties and formulas
+- [[Trigonometry Basics]] - Basic trigonometric functions
+- [[Trigonometry MOC]] - Trigonometry topics overview

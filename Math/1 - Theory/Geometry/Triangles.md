@@ -1,8 +1,13 @@
 ---
 tags:
-  - triangle
-  - geometry
-  - basics
+  - math/geometry
+  - triangles
+related:
+  - '[[Sine Rule]]'
+  - '[[Cosine Rule]]'
+  - '[[Trigonometry Basics]]'
+  - '[[Vectors]]'
+  - '[[Geometry MOC]]'
 ---
 
 
@@ -174,3 +179,13 @@ where $A$ is the area, and $s$ is the semi-perimeter:
 ### $$\boxed{s = \frac{a + b + c}{2}}$$
 
 - **Incenter**: Intersection point of angle bisectors.
+
+
+---
+
+## See Also
+- [[Sine Rule]] - Solving triangles with sine
+- [[Cosine Rule]] - Solving triangles with cosine
+- [[Trigonometry Basics]] - Trigonometric functions
+- [[Vectors]] - Vector operations in geometry
+- [[Geometry MOC]] - Geometry topics overview

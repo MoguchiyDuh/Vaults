@@ -1,10 +1,13 @@
 ---
 tags:
-  - algebra
-  - quadratic_function
-  - quadratic_inequalities
+  - math/algebra
+  - quadratic
+  - inequalities
+related:
+  - '[[Quadratic Function]]'
+  - '[[Polynomials]]'
+  - '[[Algebra MOC]]'
 ---
-related topic [[Quadratic Function]]
 ## Quadratic Inequalities
 
 ### - $ax² + bx + c > 0$
@@ -40,3 +43,11 @@ related topic [[Quadratic Function]]
 | Product  | +       | -      | +       |
 
 4. Solution: x ∈ (2, 3)
+
+
+---
+
+## See Also
+- [[Quadratic Function]] - Quadratic equations and discriminant
+- [[Polynomials]] - Polynomial operations
+- [[Algebra MOC]] - Algebra topics overview

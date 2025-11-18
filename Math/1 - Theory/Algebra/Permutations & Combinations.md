@@ -1,8 +1,12 @@
 ---
 tags:
-  - algebra
+  - math/algebra
+  - combinatorics
   - permutations
   - combinations
+related:
+  - '[[Binomials]]'
+  - '[[Algebra MOC]]'
 ---
 
 ## Permutations #permutations
@@ -80,3 +84,10 @@ $$\boxed{(n - 1)!}$$
 | **Order Matters** | Yes                             | No                                |
 | **Example**       | Arranging 3 friends in a line   | Selecting 3 friends for a team    |
 | **Formula**       | $P(n, r) = \frac{n!}{(n - r)!}$ | $C(n, r) = \frac{n!}{r!(n - r)!}$ |
+
+
+---
+
+## See Also
+- [[Binomials]] - Binomial coefficients
+- [[Algebra MOC]] - Algebra topics overview

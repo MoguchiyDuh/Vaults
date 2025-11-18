@@ -1,3 +1,14 @@
+---
+tags:
+  - computing/data-representation
+  - number-systems
+  - binary
+related:
+  - "[[Data Representation]]"
+  - "[[Boolean Algebra]]"
+  - "[[Computing MOC]]"
+---
+
 ## Common Bases
 ### Binary (Base 2)
 - Digits: 0, 1
@@ -136,4 +147,9 @@ use this formula: [[Number Systems#Positional Value (weight) Formula]]
 
 
 
-Tags: #number_systems
+---
+
+## See Also
+- [[Data Representation]] - Two's complement, IEEE 754
+- [[Boolean Algebra]] - Binary operations
+- [[Computing MOC]] - Computing topics overview

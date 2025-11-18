@@ -1,3 +1,12 @@
+---
+tags:
+  - math/algebra
+  - logarithms
+  - formula
+related:
+  - '[[Exponents]]'
+  - '[[Algebra MOC]]'
+---
 ## Definition
 A logarithm answers the question: "**To what exponent must we raise a base to get a certain number?**"
 
@@ -26,3 +35,10 @@ Where:
 ### $$\log_a a = 1, \text{ because } a^1=a$$
 ### $$\log_a(a^n) = n$$
 ### $$a^{\log_a x} = x$$
+
+
+---
+
+## See Also
+- [[Exponents]] - Inverse relationship with logarithms
+- [[Algebra MOC]] - Algebra topics overview

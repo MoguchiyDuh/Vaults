@@ -1,7 +1,13 @@
 ---
 tags:
-  - trigonometry
-  - sine_rule
+  - math/trigonometry
+  - cosine-rule
+  - formula
+related:
+  - '[[Sine Rule]]'
+  - '[[Triangles]]'
+  - '[[Trigonometry Basics]]'
+  - '[[Trigonometry MOC]]'
 ---
 
 ## Cosine Rule #cosine_rule #formula
@@ -15,3 +21,12 @@ Alternatively:
 - Use the Cosine Rule when you know:
   - All three sides (to find an angle).
   - Two sides and the included angle (to find the third side).
+
+
+---
+
+## See Also
+- [[Sine Rule]] - Alternative triangle solving method
+- [[Triangles]] - Triangle properties and formulas
+- [[Trigonometry Basics]] - Basic trigonometric functions
+- [[Trigonometry MOC]] - Trigonometry topics overview

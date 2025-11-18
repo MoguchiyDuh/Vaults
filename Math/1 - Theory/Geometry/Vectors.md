@@ -1,7 +1,13 @@
 ---
 tags:
+  - math/geometry
   - vectors
-  - geometry
+  - linear-algebra
+related:
+  - '[[Matrices]]'
+  - '[[Trigonometry Basics]]'
+  - '[[Geometry MOC]]'
+  - '[[Math MOC]]'
 ---
 
 ## What is a Vector?
@@ -113,3 +119,12 @@ $$
 Useful for:
 - Finding area of parallelogram: $A = |\vec{a} \times \vec{b}|$
 - Torque, angular momentum, etc.
+
+
+---
+
+## See Also
+- [[Matrices]] - Matrix operations in linear algebra
+- [[Trigonometry Basics]] - Angles and trigonometric functions
+- [[Geometry MOC]] - Geometry topics overview
+- [[Math MOC]] - Mathematics overview

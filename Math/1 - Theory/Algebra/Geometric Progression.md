@@ -1,10 +1,12 @@
 ---
 tags:
-  - algebra
-  - progressions
-  - geometric_progression
-  - series
-  - sequence
+  - math/algebra
+  - sequences
+  - geometric-progression
+related:
+  - '[[Arithmetic Progression]]'
+  - '[[Exponents]]'
+  - '[[Algebra MOC]]'
 ---
 
 ## Definition
@@ -38,3 +40,11 @@ The sum of the first $n$-terms can be calculated using the following formula:
 ## Infinite Sum (Convergent Series)
 For an infinite geometric series where $|r| < 1$, the sum converges to:
 ### $$\boxed{S_\infty = \frac{a_1}{1 - r}}$$
+
+
+---
+
+## See Also
+- [[Arithmetic Progression]] - Linear sequences
+- [[Exponents]] - Powers and exponential rules
+- [[Algebra MOC]] - Algebra topics overview

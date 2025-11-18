@@ -1,11 +1,11 @@
 ---
 tags:
-  - algebra
-  - progressions
-  - arithmetic_progression  
-  - series
-  - sequence
-  - basics
+  - math/algebra
+  - sequences
+  - arithmetic-progression
+related:
+  - '[[Geometric Progression]]'
+  - '[[Algebra MOC]]'
 ---
 
 ### Definition
@@ -35,3 +35,10 @@ The sum of the first *n* terms can be calculated using one of the following form
 <p style="text-align: center; font-weight: bold;">OR</p>
 
 ### $$\boxed{S_n = \frac{2a_1 + d(n - 1)}{2} \cdot n}$$
+
+
+---
+
+## See Also
+- [[Geometric Progression]] - Geometric sequences
+- [[Algebra MOC]] - Algebra topics overview

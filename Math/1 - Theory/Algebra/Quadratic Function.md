@@ -1,9 +1,15 @@
 ---
 tags:
-  - algebra
-  - quadratic_equation
-  - quadratic_function
-  - basics
+  - math/algebra
+  - quadratic
+  - equations
+  - formula
+related:
+  - '[[Polynomials]]'
+  - '[[Parabola]]'
+  - '[[Quadratic Inequalities]]'
+  - '[[Algebraic Identities]]'
+  - '[[Algebra MOC]]'
 ---
 
 ## Definition
@@ -34,3 +40,13 @@ The roots of the quadratic equation are given by:
 ## Vieta's formula #vietas_formula
 - ### Sum: $$\boxed{x_1 + x_2 = \frac{-b}{a}}$$
 - ### Product: $$\boxed{x_1 x_2 = \frac{c}{a}}$$
+
+
+---
+
+## See Also
+- [[Polynomials]] - Polynomial operations
+- [[Parabola]] - Graphical representation
+- [[Quadratic Inequalities]] - Solving inequalities
+- [[Algebraic Identities]] - Square identities
+- [[Algebra MOC]] - Algebra topics overview
