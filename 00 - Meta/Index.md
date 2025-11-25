@@ -9,10 +9,10 @@ updated: '2025-01-18'
 
 ## Main Areas
 
-### [[Computing MOC|Computing]]
+### [[00 - Computing MOC|Computing]]
 Digital logic, data representation, signals, and computer fundamentals.
 
-### [[Math MOC|Mathematics]]
+### [[00 - Math MOC|Mathematics]]
 Algebra, geometry, trigonometry, and mathematical foundations.
 
 ---
