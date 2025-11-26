@@ -1,37 +1,63 @@
----
-tags:
-  - math/algebra
-  - moc
-created: '2025-01-18'
-updated: '2025-01-18'
----
 # Algebra - Map of Content
 
-## Number Systems & Operations
-- [[Complex Numbers]] - Imaginary and complex arithmetic
-- [[Exponents]] - Powers and exponential rules
-- [[Logarithms]] - Logarithmic functions and properties
-- [[Algebraic Identities]] - Common algebraic formulas
+## Foundational Topics
 
-## Functions & Equations
-- [[Polynomials]] - Polynomial operations and factoring
-- [[Quadratic Function]] - Parabolas and quadratic equations
-- [[Quadratic Inequalities]] - Solving quadratic inequalities
-- [[Parabola]] - Geometric properties of parabolas
+### Number Systems & Operations
+- [[Exponents]] - Powers, roots, and exponential properties
+- [[Logarithms]] - Inverse of exponentiation, logarithmic properties
+- [[Complex Numbers]] - Imaginary and complex number arithmetic
+
+### Algebraic Structures
+- [[Algebraic Identities]] - Fundamental algebraic formulas and identities
+- [[Polynomials]] - Polynomial operations, factoring, and division
 - [[Binomials]] - Binomial theorem and expansion
 
-## Sequences & Series
-- [[Arithmetic Progression]] - Linear sequences
-- [[Geometric Progression]] - Exponential sequences
+---
 
-## Combinatorics
-- [[Permutations & Combinations]] - Counting principles
+## Functions & Equations
 
-## Advanced Topics
-- [[Limits]] - Foundation of calculus
-- [[Derivatives]] - Rate of change and optimization
-- [[Matrices]] - Linear algebra fundamentals
+### Quadratic Theory
+- [[Quadratic Function]] - Second-degree equations, discriminant, Vieta's formulas
+- [[Parabola]] - Geometric properties and graphing of quadratic functions
+- [[Quadratic Inequalities]] - Solving quadratic inequalities using intervals
 
 ---
+
+## Sequences & Series
+
+### Progressions
+- [[Arithmetic Progression]] - Linear sequences and their sums
+- [[Geometric Progression]] - Exponential sequences, convergent series
+
+---
+
+## Combinatorics
+
+### Counting Principles
+- [[Permutations & Combinations]] - Arrangements and selections, factorial notation
+
+---
+
+## Calculus Foundations
+
+### Limits & Continuity
+- [[Limits]] - Foundation of calculus, limit laws, L'Hôpital's rule
+
+### Differential Calculus
+- [[Derivatives]] - Rate of change, differentiation rules, applications
+
+### Integral Calculus
+- [[Integrals]] - Antiderivatives, integration techniques, applications
+
+---
+
+## Linear Algebra
+
+### Matrix Theory
+- [[Matrices]] - Matrix operations, determinants, eigenvalues, applications
+
+---
+
+## Navigation
 
 [[00 - Math MOC|← Back to Math]] | [[00 - Meta/Index|Main Index]]

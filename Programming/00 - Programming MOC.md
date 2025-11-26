@@ -7,6 +7,8 @@ updated: '2025-01-22'
 ---
 # Programming - Map of Content
 ## [[Git]]
+## [[SQL]]
+## [[Regex]]
 
 ---
 ## Related Areas
