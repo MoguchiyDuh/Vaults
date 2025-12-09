@@ -80,8 +80,6 @@ $$x = 2, \quad x = 3$$
        x₁       x₂
 ```
 
-[IMAGE: Number line showing sign patterns]
-
 ---
 
 ### Method 2: Sign Table/Chart Method
@@ -110,8 +108,6 @@ Graph $y = ax^2 + bx + c$ and identify where the parabola satisfies the inequali
 
 **For $ax^2 + bx + c < 0$:**
 - Find where parabola is **below** x-axis
-
-[IMAGE: Parabola with shaded regions for different inequalities]
 
 **Example:** $x^2 - 4 \geq 0$
 - Roots: $x = -2, x = 2$

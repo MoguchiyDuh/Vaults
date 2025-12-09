@@ -69,7 +69,7 @@ For composite functions:
 
 ## Common Derivatives Table
 
-[IMAGE: Table of common derivatives]
+<img src="Pictures/table_of_derivative.png" width=500 height="auto" style="display: block; margin: auto">
 
 ### Polynomial and Power Functions
 | Function | Derivative |
@@ -145,7 +145,7 @@ Critical points occur where $f'(x) = 0$ or $f'(x)$ is undefined.
 - $f'(x) > 0$: function is increasing
 - $f'(x) < 0$: function is decreasing
 
-[IMAGE: Graph showing increasing/decreasing regions based on derivative sign]
+<img src="Pictures/derivatives_and_graph_shares.jpg" width=500 height="auto" style="display: block; margin: auto">
 
 ### 3. Finding Local Extrema (Maxima/Minima)
 
@@ -164,7 +164,7 @@ Critical points occur where $f'(x) = 0$ or $f'(x)$ is undefined.
 
 **Inflection points:** where $f''(x) = 0$ and concavity changes
 
-[IMAGE: Graph showing concave up/down regions]
+<img src="Pictures/types_of_concavity.png" width=500 height="auto" style="display: block; margin: auto">
 
 ### 5. Optimization Problems
 
@@ -203,7 +203,8 @@ For indeterminate forms $\frac{0}{0}$ or $\frac{\infty}{\infty}$:
 If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, then there exists $c \in (a,b)$ such that:
 ### $$\boxed{f'(c) = \frac{f(b) - f(a)}{b - a}}$$
 
-[IMAGE: Graph showing secant line and tangent line with same slope]
+<img src="Pictures/secant_tangent_lines.png" width=500 height="auto" style="display: block; margin: auto">
+
 
 ---
 

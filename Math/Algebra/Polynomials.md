@@ -153,8 +153,6 @@ x - 1 | x^3 + 2x^2 - x - 2
 
 Result: $x^2 + 3x + 2$ with remainder $0$
 
-[IMAGE: Polynomial long division diagram]
-
 ---
 
 #### Synthetic Division (for divisors of the form $x - c$)
@@ -305,8 +303,6 @@ Determined by the **leading term** $a_nx^n$:
 | $-x^{\text{even}}$ | $-\infty$ | $-\infty$ |
 | $+x^{\text{odd}}$ | $-\infty$ | $+\infty$ |
 | $-x^{\text{odd}}$ | $+\infty$ | $-\infty$ |
-
-[IMAGE: Graphs showing different polynomial behaviors]
 
 ---
 

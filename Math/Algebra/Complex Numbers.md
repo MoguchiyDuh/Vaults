@@ -56,7 +56,7 @@ Complex numbers can be represented geometrically on the **complex plane**:
 
 **Example:** $z = 3 + 2i$ is plotted at coordinates $(3, 2)$
 
-[IMAGE: Complex plane with several points plotted]
+<img src="Pictures/complex_plain.jpg" width=500 height="auto" style="display: block; margin: auto">
 
 ---
 
@@ -192,7 +192,7 @@ Where:
 - $\theta = \tan^{-1}(1) = \frac{\pi}{4}$
 - $z = \sqrt{2}\left(\cos\frac{\pi}{4} + i\sin\frac{\pi}{4}\right)$
 
-[IMAGE: Polar representation on complex plane]
+<img src="Pictures/polar_representation.png" width=500 height="auto" style="display: block; margin: auto">
 
 ---
 

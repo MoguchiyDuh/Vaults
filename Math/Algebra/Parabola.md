@@ -56,7 +56,7 @@ $$\boxed{x = h = -\frac{b}{2a}}$$
 
 **Property:** For any point $(x, y)$ on the parabola, the point $(2h - x, y)$ is also on the parabola.
 
-[IMAGE: Parabola showing axis of symmetry]
+<img src="Pictures/axis_of_symmetry.jpg" width=500 height="auto" style="display: block; margin: auto">
 
 ---
 
@@ -82,8 +82,6 @@ $$\boxed{\text{Directrix: } y = k - \frac{1}{4a}}$$
 
 **Property:** Every point on the parabola is equidistant from the focus and directrix.
 
-[IMAGE: Parabola with focus and directrix labeled]
-
 ---
 
 ### 5. Focal Length (p)
@@ -102,13 +100,9 @@ $$\boxed{p = \frac{1}{4a}}$$
   - Vertex is **minimum point**
   - $y \geq k$ (range)
 
-[IMAGE: Parabola opening upward]
-
 - **$a < 0$**: Parabola opens **downward** (∩)
   - Vertex is **maximum point**
   - $y \leq k$ (range)
-
-[IMAGE: Parabola opening downward]
 
 ---
 
@@ -121,8 +115,6 @@ $$\boxed{p = \frac{1}{4a}}$$
 - $y = 2x^2$ (narrow)
 - $y = x^2$ (standard)
 - $y = 0.5x^2$ (wide)
-
-[IMAGE: Three parabolas with different widths]
 
 ---
 
@@ -186,8 +178,6 @@ $$\boxed{x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}}$$
 - $D > 0$: **Two** x-intercepts
 - $D = 0$: **One** x-intercept (vertex on x-axis)
 - $D < 0$: **Zero** x-intercepts
-
-[IMAGE: Three parabolas showing different numbers of intercepts]
 
 ---
 
@@ -262,8 +252,6 @@ $$y = a(x - h)^2 + k$$
 The path of a thrown object follows a parabolic trajectory:
 $$h(t) = -\frac{1}{2}gt^2 + v_0t + h_0$$
 
-[IMAGE: Parabolic trajectory of projectile]
-
 ---
 
 ### 2. Satellite Dishes & Reflectors
@@ -275,15 +263,11 @@ Parabolic shape focuses all parallel rays to a single point (focus).
 - Car headlights
 - Solar collectors
 
-[IMAGE: Parabolic reflector diagram]
-
 ---
 
 ### 3. Architecture
 - Parabolic arches (bridges, buildings)
 - Parabolic cables (suspension bridges)
-
-[IMAGE: Parabolic arch]
 
 ---
 

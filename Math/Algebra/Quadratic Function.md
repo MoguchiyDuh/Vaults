@@ -96,8 +96,6 @@ $$\boxed{D = b^2 - 4ac}$$
 - $D = 2^2 - 4(1)(5) = 4 - 20 = -16 < 0$
 - No real solutions
 
-[IMAGE: Three parabolas showing D > 0, D = 0, D < 0 cases]
-
 ---
 
 ## Quadratic Formula
@@ -201,8 +199,6 @@ $$\boxed{x = -\frac{b}{2a}}$$
 - Parabola opens **downward** (∩-shaped)
 - Vertex is the **maximum point**
 - Maximum value: $f_{\max} = k = -\frac{D}{4a}$
-
-[IMAGE: Parabolas showing upward and downward opening]
 
 ---
 
@@ -318,8 +314,6 @@ Find maximum or minimum values subject to constraints.
 | **Opens upward** | $a > 0$ |
 | **Opens downward** | $a < 0$ |
 | **Width** | Larger $\|a\|$ → narrower |
-
-[IMAGE: Labeled parabola showing all key features]
 
 ---
 

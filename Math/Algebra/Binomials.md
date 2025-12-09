@@ -139,7 +139,6 @@ Row 7:      1   7  21  35  35  21   7   1
 **Pascal's Identity:**
 $$\boxed{\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}}$$
 
-[IMAGE: Pascal's Triangle with rows labeled and patterns highlighted]
 
 ---
 

@@ -504,7 +504,7 @@ $$\det\begin{pmatrix}
 \end{pmatrix} = (1 \cdot 1 \cdot 0 + 2 \cdot 4 \cdot 5 + 3 \cdot 0 \cdot 6) - (3 \cdot 1 \cdot 5 + 2 \cdot 0 \cdot 0 + 1 \cdot 4 \cdot 6)$$
 $$= (0 + 40 + 0) - (15 + 0 + 24) = 40 - 39 = 1$$
 
-[IMAGE: Rule of Sarrus diagram showing diagonal products]
+<img src="Pictures/rule_of_sarrus.png" width=500 height="auto" style="display: block; margin: auto">
 
 ---
 
@@ -969,7 +969,6 @@ $$x = \frac{\det\begin{bmatrix} 5 & 1 \\ 3 & 1 \end{bmatrix}}{1} = \frac{5 - 3}{
 
 $$y = \frac{\det\begin{bmatrix} 2 & 5 \\ 1 & 3 \end{bmatrix}}{1} = \frac{6 - 5}{1} = 1$$
 
-[IMAGE: Cramer's rule diagram showing determinant substitution]
 
 ---
 

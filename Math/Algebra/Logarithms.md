@@ -285,7 +285,7 @@ Computing power doubles approximately every 2 years (exponential growth modeled 
 - If $a > 1$: increasing
 - If $0 < a < 1$: decreasing
 
-[IMAGE: Graph showing logarithmic curves for different bases]
+<img src="Pictures/logarithm_graphs.png" width=500 height="auto" style="display: block; margin: auto">
 
 ---
 

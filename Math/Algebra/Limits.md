@@ -19,8 +19,6 @@ $$\boxed{\lim_{x \to a} f(x) = L}$$
 - $\lim_{x \to 0} \frac{\sin x}{x} = 1$
 - $\lim_{x \to \infty} \frac{1}{x} = 0$
 
-[IMAGE: Graph showing function approaching a limit]
-
 ---
 
 ## Basic Limit Laws
@@ -180,8 +178,6 @@ $$f(x) = \begin{cases} x + 1 & \text{if } x < 2 \\ 5 & \text{if } x = 2 \\ x^2 &
 - $\lim_{x \to 2^+} f(x) = 4$
 - $\lim_{x \to 2} f(x)$ **does not exist** (left ≠ right)
 
-[IMAGE: Graph showing one-sided limits]
-
 ---
 
 ## Limits at Infinity
@@ -250,7 +246,7 @@ $$\boxed{\lim_{x \to a} f(x) = \infty}$$
 $$\lim_{x \to 0^+} \frac{1}{x} = \infty$$
 $$\lim_{x \to 0^-} \frac{1}{x} = -\infty$$
 
-[IMAGE: Graph showing vertical asymptote]
+<img src="Pictures/vertical_asymptote.jpg" width=500 height="auto" style="display: block; margin: auto">
 
 ---
 
@@ -269,7 +265,7 @@ $$\boxed{\lim_{x \to a} f(x) = f(a)}$$
 - **Jump:** Left and right limits exist but differ
 - **Infinite:** Function has vertical asymptote
 
-[IMAGE: Graphs showing different types of discontinuities]
+<img src="Pictures/discontinuity.png" width=500 height="auto" style="display: block; margin: auto">
 
 ---
 
